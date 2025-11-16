@@ -141,19 +141,9 @@ pip install -r requirements.txt
 
 ## 📥 Dataset
 Framingham Heart Study Dataset  
-(Add download link or instructions inside `data/README.md`)
+Download link: [Kaggle – Framingham Heart Study Dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)
 
 ---
 
-## 👨‍💻 Contributors
-- Kapalavayi Ram Trinadh  
-- (Add other team members)
-
----
-
-## 📜 License
-MIT License
-
----
 
 ## ⭐ If you like this project, please give it a star!
